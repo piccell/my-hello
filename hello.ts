@@ -6,7 +6,7 @@ const Hello = (props) => (
       <title>Hello {props.name}</title>
     </Helmet>
     <h1 class={tw`text-5xl text-gray-600 m-auto mt-20`}>
-      Hello {props.name}!
+      Hello {props.name}!!!
     </h1>
   </div>
 );
